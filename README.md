@@ -8,4 +8,4 @@ where Key is preposition to weigh, such as "Is Trump good?" and (Query1, Query2)
 ## Task 2 : 
 
 For given Key, predict which queries are available.
-e.g. (Key: "I have a illness", ?) -> (Good, Bad)
+e.g. for (Key: "China", ?), the avialble querie tuple are (Friend, Enemy), (Ally, Enemy) etc.
