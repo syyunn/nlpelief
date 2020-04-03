@@ -15,3 +15,8 @@ e.g. for (Key: "China", ?), the avialble querie tuple are (Friend, Enemy), (Ally
 For given any sequence of words, predict 0 or 1 where 0 is subjective-false 1 is subjective-true, subjective true/false is defined as belief.
 
 "Trump is Good" -> 0: No, he's evil 1: Yes, I believe him
+
+## Solution
+
+### Unsupervised Text Classifcation
+Not expecting to have paired dataset. Thus we will try to approach via unsupervised way
